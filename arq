@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF: 1 tvg-log = "" group-title = "",Naha aeroporto 
+https://57eeb4e810fec.streamlock.net/live/livenahacity.smil/chunklist_w973526923_b3000000.m3u8 
+#EXTINF: 1 tvg-log = "" group-title = "",Foz Do Iguaçu 
+https://5b33b873179a2.streamlock.net:1443/camerafozaduana/camerafozaduana.stream/chunklist_w1486378394.m3u8
+#EXTINF: 1 tvg-log = "" group-title = "",Aeroporto de Colônia Bonn 
+https://stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/chunklist_w1352245372.m3u8
+#EXTINF: 1 tvg-log = "" group-title = "",Pinguins - Zoológico de San Diego 
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+#EXTINF: 1 tvg-log = "" group-title = "", Tigres - Zoológico de San Diego 
+https://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/chunklist.m3u8
+#EXTINF: 1 tvg-log = "" group-title = "",Cristo Redentor 
+https://cdn.jmvstream.com/w/LVW-8205/LVW8205_eilkbMsDoM/chunklist.m3u8
+#EXTINF: 1 tvg-log = "" group-title = "",Rede Super 
+https://playback2.akamaized.net/streams/10205943_3429501_lsi4f1opquqeykopobk_1/exp=159054121~acl=%2f*~data=hdntl~hmac=6091ff7701fa56877421c8303e2fb4e3297bc5acbb26316683ff49af1c4a9371/media/10205943_3429501_lsi4f1opquqeykopobk_1@446000pb.m3u8?dw=14400&ts=1590454800 
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x7 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP07.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x8 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP08.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x9 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP09.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x10 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP10.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x11 
+https://wxy8sp4b6s.monster/#current-browser-timestamp=1596241363782
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x12 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP12.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x13 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP13.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x14 
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP14.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x15
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP15.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x16
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP16.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x17
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP17.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x18
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP18.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x19
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP19.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x20
+https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP20.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title= "",tnt
+https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1597888162&token=89e38ecc7bf3aaebe90634c6a6d6b45f
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x21
+https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP21.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x22
+https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP22.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x23
+https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP23.mp4?attachment=true
+#EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x24
+https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP24.mp4?attachment=true
