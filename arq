@@ -43,7 +43,7 @@ https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP18.mp4?attachm
 https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP19.mp4?attachment=true
 #EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x20
 https://aligator.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP20.mp4?attachment=true
-#EXTINF: 1 tvg-log = "" group-title= "",VIVA
+#EXTINF: 1 tvg-log = "" group-title= "Canais",VIVA
 https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1599198464&token=78c3a2b9e1c84f4e15800bee3a052403
 #EXTINF: 1 tvg-log = "" group-title = "the thundermans",the thundermans 2x21
 https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP21.mp4?attachment=true
@@ -55,5 +55,6 @@ https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP23.mp4?attachm
 https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP24.mp4?attachment=true
 #EXTINF: 1 tvg-log = "" group-title = "Filmes",Capitão Cueca o filme
 https://playplus.azureedge.net/RCFServer4/ondemand/ASAVNTRSDCAPCUC.mp4?attachment=true
-#EXTINF: 1 tvg-log = "" group-title = "Filmes",
-#EXTINF: 1 tvg-log = "" group-title = "Filmes",
+#EXTINF: 1 tvg-log = "" group-title = "Canais",Gloob
+https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1599198464&token=78c3a2b9e1c84f4e15800bee3a052403
+
