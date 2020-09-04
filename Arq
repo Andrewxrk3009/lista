@@ -57,3 +57,7 @@ https://playplus.azureedge.net/RCServer10/ondemand/THTHNDRMNST02EP24.mp4?attachm
 https://playplus.azureedge.net/RCFServer4/ondemand/ASAVNTRSDCAPCUC.mp4?attachment=true
 #EXTINF: 1 tvg-log = "" group-title = "Canais",Gloob
 https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1599201063&token=55ebefa7cb7bcbc6f04076f829f9985c
+#EXTINF: 1 tvg-log = "" group-title= "Canais",Sport TV
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1599214572&token=b496adb8d2f9df833a14b8d92a5f1b89
+#EXTINF: 1 tvg-log = "" group-title= "Canais",Discovery Kids
+https://streaming.belugacdn.link/a/hls1/discoverykids.m3u8?expires=1599214724&token=2d62805c5de64ccbff2633d275eaeb78
