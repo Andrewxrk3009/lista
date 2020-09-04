@@ -60,7 +60,7 @@ https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1599259200&token=5c
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Discovery Kids
 https://streaming.belugacdn.link/a/hls1/discoverykids.m3u8?expires=1599259059&token=aa63caabed626d6d23a487e32680bf0e
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Multi Show
-https://streaming.belugacdn.link/a/hls1/multishow.m3u8?expires=1599259693&token=a4c71733f25c5ccf16018d8bf9ee5989
+https://streaming.belugacdn.link/a/hls1/multishow.m3u8?expires=1599292373&token=2736e0791b866e8b947e438cf5125590
 #EXTINF: 1 tvg-log = "" group-title= "Canais",VIVA
 https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1599258713&token=b69e8a5cc8e754efb76275fe4ec09573
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Premiere Clubes
