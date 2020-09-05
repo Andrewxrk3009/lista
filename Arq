@@ -57,18 +57,22 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [[CANAIS]] XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF: 1 tvg-log = "" group-title = "Canais",Gloob
-https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1599298295&token=55d80a6f0e883a5b807c37ae634e36c3
+https://streaming.belugacdn.link/a/hls1/gloob.m3u8?expires=1599358759&token=c4467fd2eaf4b5c4ec90f5d2e899cce5
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Sport TV
-https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1599298447&token=95942599805809adfdbb36bcd31170f9
+https://streaming.belugacdn.link/a/hls1/sportv1.m3u8?expires=1599358873&token=65afaa763ad0ade4974354f97eb6a9f1
 #EXTINF: 1 tvg-log = "" group-title= "Canais",National Geographic Channel
-https://streaming.belugacdn.link/a/hls1/natgeo.m3u8?expires=1599298660&token=51d881522aa54e3df83b1b5cfab2d90f
+https://streaming.belugacdn.link/a/hls1/natgeo.m3u8?expires=1599358929&token=7338a814d2e17cf1bfe07182419ffde7
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Multi Show
-https://streaming.belugacdn.link/a/hls1/multishow.m3u8?expires=1599292373&token=2736e0791b866e8b947e438cf5125590
+https://streaming.belugacdn.link/a/hls1/multishow.m3u8?expires=1599358997&token=718a7f5654515682eb7bbd947a6a511f
 #EXTINF: 1 tvg-log = "" group-title= "Canais",VIVA
-https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1599298806&token=5c0d42f52779244fc04256adbf011fec
-#EXTINF: 1 tvg-log = "https://s2.glbimg.com/kgU_aDO34YWudP6rAc6lHRKg9Xg=/250x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/i/C/yAmm24TZSNSjZKvUOPFA/logo-premiere-semfutebolclube.png" group-title= "Canais",Premiere Clubes
-https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1599298901&token=d3ffed73db9536d024c8d29f2c15d905
-#EXTINF: 1 tvg-log = "https://img.favpng.com/22/25/2/brazil-premiere-television-channel-sportv-png-favpng-PJRhvqR7YXSDDWeAdjpqJErVm.jpg" group-title= "Canais",Premiere 2
-https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1599298999&token=590aa320c1ebd6d12da86c57e5b272a9
+https://streaming.belugacdn.link/a/hls1/viva.m3u8?expires=1599359097&token=d9feb26667667db3f465fe71368479f0
+#EXTINF: 1 tvg-log = "" group-title= "Canais",Premiere Clubes
+https://streaming.belugacdn.link/a/hls1/premiereclubes.m3u8?expires=1599359149&token=f3d3bb2168630023e0aaa69f81368be7
+#EXTINF: 1 tvg-log = "" group-title= "Canais",Premiere 2
+https://streaming.belugacdn.link/a/hls1/premiere2.m3u8?expires=1599359258&token=770a7e6de56fad6a1d89709cd1651258
 #EXTINF: 1 tvg-log = "" group-title= "Canais",Tele Cine Pipoca
-https://streaming.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1599296099&token=8554274667be2d7f63c156ed53ff1f92
+https://streaming.belugacdn.link/a/hls1/telecinepipoca.m3u8?expires=1599359309&token=9827fa93b2212cc0765072cdd85a6b0b
+#EXTINF: 1 tvg-log = "" group-title= "Canais",AXN
+https://streaming.belugacdn.link/a/hls1/axn.m3u8?expires=1599359420&token=3aa88f194fd99dc6f5b296a970b17740
+#EXTINF: 1 tvg-log = "" group-title= "Canais",Megapix
+https://streaming.belugacdn.link/a/hls1/megapix.m3u8?expires=1599359488&token=e6fe68237ac44df1dccf57065207c6c0
